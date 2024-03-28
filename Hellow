@@ -4,8 +4,7 @@ public class Day1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello");
-		System.out.println(10+20);
-		
+		System.out.println(10+20);		
 		System.out.println("Wellcome to First Program");		
 		System.out.println(10+20-5);
 		
