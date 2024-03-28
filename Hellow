@@ -10,7 +10,6 @@ public class Day1 {
 		
 		System.out.println("First Program");
 
-		System.out.println("Second Program");
 		
 		
 		System.out.println(10+20-5);
